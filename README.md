@@ -9,4 +9,4 @@ After reviewing cuttin-edge methods in the field, we decided that the [Roberta-S
 
 
 ## Required Data files
-.json files containing the full texts for papers in the above dataset can be downloaded from here: https://bit.ly/3fzhlhD
+The path to Data file can be fined in the Data folder
