@@ -5,8 +5,8 @@ As the Covid article dataset is too large, our purpose was to build a model that
 
 I use this considerable dataset as a context to fine-tune transformers and extract  favorable answers from them. 
 
-After reviewing cuttin-edge methods in the field, we decided that the [Roberta-Squad model] (https://huggingface.co/deepset/roberta-base-squad2) and Biober-model, which are both Bert-Basd models, can be a desirable solution to our problem.
-The attached PDF file shows a brief summary of the whole project result.
+After reviewing cuttin-edge methods in the field, we decided that the [Roberta-Squad model](https://huggingface.co/deepset/roberta-base-squad2) and [Biobert-model](https://huggingface.co/clagator/biobert_squad2_cased), which are both Bert-Based models, can be a desirable solution to our problem.
 
-Required Data files
+
+## Required Data files
 .json files containing the full texts for papers in the above dataset can be downloaded from here: https://bit.ly/3fzhlhD
