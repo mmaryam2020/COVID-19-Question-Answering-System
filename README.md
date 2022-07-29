@@ -12,6 +12,6 @@ After reviewing cuttin-edge methods in the field, we decided that the [Roberta-S
 The path to Data file can be fined in the Data folder
 
 ## Result
-Here is an example of the result for analyzing pulmonary disease as risk factors:
+Here is an example of analyzing pulmonary disease as risk factors:
 
 ![this](Images/Covid19RiskFactors.JPG)
